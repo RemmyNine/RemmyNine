@@ -19,5 +19,4 @@
   ![](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
   ![](https://img.shields.io/badge/Linux-E9B81E?style=for-the-badge&logo=linux&logoColor=000000)
   ![](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
-  ![](https://img.shields.io/badge/-Manjaro-brightgreen)
-  ![]https://img.shields.io/badge/-Golang-informational)
+  
