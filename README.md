@@ -1,7 +1,1 @@
-<h1> 𓆩ꞦēᵯᵯɏꞤīꞥē𓆪 </h1>
-<h2> ᴀʙᴏᴠᴇ ᴛʜᴇ ᴛɪᴍᴇ, ʙᴇʏᴏɴᴅ ᴛʜᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ </h2>
-<h3> ʟᴇᴀʀɴɪɴɢ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴀꜱ ᴀ ʀᴇᴅ ᴛᴇᴀᴍ ᴍᴇᴍʙᴇʀ </h3>
-<h3> ɪ ᴀᴍ ɴᴏ ʟᴏɴɢᴇʀ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴀɴʏᴛʜɪɴɢ ɪɴ ᴘʏᴛʜᴏɴ </h3>
- 
- 
-a true Meme fan
+<iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
