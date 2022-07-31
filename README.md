@@ -5,8 +5,8 @@
  
 
 <p align="Center">
- <a href="#" alt="Borhan's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Borhan-az&theme=tokyonight&show_icons=true" />
+ <a href="#" alt="R9's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RemmyNinez&theme=tokyonight&show_icons=true" />
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="#" alt="R9 Stats">
