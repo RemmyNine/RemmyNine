@@ -1,5 +1,5 @@
 <div align="center">
-<img widhth=77% src="https://i.ytimg.com/vi/wc2yHJdEsbA/maxresdefault.jpg" />
+<img widhth=27% src="https://i.ytimg.com/vi/wc2yHJdEsbA/maxresdefault.jpg" />
 <br>
   <h2 align="center"> Oᴍɪᴅ "Rᴇᴍᴍʏ" </h2>
  
