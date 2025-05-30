@@ -5,7 +5,7 @@
  
   
     𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘐 𝘓𝘪𝘬e 
-  <img src="[https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" width="90em">
+<img src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000" width="90em">
 <img src="https://img.icons8.com/nolan/344/linux--v2.png" width="90em">
 <img src="https://img.icons8.com/nolan/344/git.png" width="90em">
 <img src="https://img.icons8.com/nolan/344/python.png" width= 90rem">
